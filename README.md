@@ -33,20 +33,6 @@ Before you begin, ensure you have met the following requirements:
 
 To run **Glowing** locally, run this command on your git bash:
 
-Linux and macOS:
-
-```bash
-
-```
-
-Windows:
-
-```bash
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
